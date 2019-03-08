@@ -30,6 +30,7 @@ int main()
 	}
 }
 
+// For testing
 void printVector(vector<int> itemWeight)
 {
 	vector<int>::iterator iter;
