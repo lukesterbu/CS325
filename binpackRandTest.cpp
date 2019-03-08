@@ -25,6 +25,9 @@ int main()
 			itemWeights.push_back(rand() % 10 + 1);
 		}
 		// Call functions here
+		// firstFit(itemWeights, binCap, numItems);
+		// firstFitDecreasing(itemWeights, binCap, numItems);
+		// bestFit(itemWeights, binCap, numItems);
 		cout << "Test " << test + 1 << ": ";
 		printVector(itemWeights);
 	}
