@@ -10,6 +10,7 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
+#include <algorithm>
 
 using std::cout;
 using std::endl;
@@ -32,7 +33,7 @@ int main(int argc, const char * argv[]) {
 	int numItem = 0;
 	vector<int> itemWeights;
 	
-	ifstream myInputFile("/Users/burrisl/Downloads/bin2.txt");
+	ifstream myInputFile("bin.txt");
 	if (myInputFile.is_open())
 	{
 		stringstream row;
