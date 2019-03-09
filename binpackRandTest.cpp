@@ -2,6 +2,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <vector>
+#include <algorithm>
 
 using std::cout;
 using std::endl;
