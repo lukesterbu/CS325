@@ -1,11 +1,3 @@
-//
-//  binpack.cpp
-//  binpack
-//
-//  Created by Luke Burris on 3/7/19.
-//  Copyright © 2019 Luke Burris. All rights reserved.
-//
-
 #include <iostream>
 #include <vector>
 #include <fstream>
