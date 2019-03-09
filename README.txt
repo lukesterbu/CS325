@@ -1,4 +1,4 @@
-README file for Luke Burris's binpack.cpp
+README file for Luke's binpack.cpp
 
 binpack.cpp Instructions
 To compile this program on flip use the following command: "g++ -std=c++11 binpack.cpp -o binpack". Once you have compiled the .cpp file using C++11 you will be able to run the program using "./binpack". If "bin.txt" is in the same directory as where you compiled "binpack.cpp" then the program will print out results similar to the below (in the format from the homework instructions):
